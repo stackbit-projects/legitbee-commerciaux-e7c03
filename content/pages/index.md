@@ -5,9 +5,9 @@ sections:
     type: section_hero
     title: Legitbee - Documentation
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |+
+      Retrouvez tous les guides et les explications sur la solution Legitbee
+
     actions:
       - label: Get Started
         url: /docs
