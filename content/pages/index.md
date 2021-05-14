@@ -69,7 +69,7 @@ sections:
 
     actions:
       - label: Retourner le site Legitbee
-        url: /docs/getting-started/installation
+        url: 'https://legitbee.com/'
         style: primary
   - section_id: features-two-col
     type: section_grid
