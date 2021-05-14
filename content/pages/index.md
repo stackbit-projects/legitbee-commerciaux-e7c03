@@ -68,7 +68,7 @@ sections:
       \*\*transmis \*\*le moment venu aux bénéficiaires de votre choix.
 
     actions:
-      - label: Get Started
+      - label: Retourner le site Legitbee
         url: /docs/getting-started/installation
         style: primary
   - section_id: features-two-col
