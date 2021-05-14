@@ -44,7 +44,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/873b171d6d6453afc7733d7f3b26b4e2.png
+    image: images/logo (1).svg
     image_position: left
     title: Les partenaires de Legitbee
     content: >-
