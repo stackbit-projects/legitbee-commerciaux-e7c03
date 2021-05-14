@@ -55,7 +55,7 @@ sections:
       - label: Devenir partenaire
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Nous contacter
         url: /docs/getting-started
         style: secondary
   - section_id: text-no-img
