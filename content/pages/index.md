@@ -74,7 +74,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Navigation Rapide
-    subtitle: retrouvez les pages les plus visitées
+    subtitle: Retrouvez les pages les plus visitées
     col_number: two
     grid_items:
       - title: Overview
