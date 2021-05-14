@@ -60,7 +60,7 @@ sections:
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: A propos
     content: >+
       **Rien ne se perd, tout se transmet**. L'ensemble de vos données
       patrimoniales, votre héritage numérique et vos souvenirs, les informations
